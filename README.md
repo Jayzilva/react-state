@@ -1,3 +1,15 @@
+# React state
+*State* 
+- a state is an object that stores the values that properties belong to components
+- Can change by user interaction / network change
+- **State innitialized in the constructor**
+- `this.setState()` use to update the value
+
+https://youtu.be/mr75zNOGFP8?si=czvh_kBkzJHB5avj
+
+<img src="asstes/1.jpeg" alt="Alt text" >
+<img src="asstes/2.jpeg" alt="Alt text" >
+<img src="asstes/3.jpeg" alt="Alt text" >
 ## Available Scripts
 
 In the project directory, you can run:
